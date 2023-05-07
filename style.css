@@ -107,3 +107,16 @@ main{
     font-size: 19px;
     line-height: 23px;
 }
+
+footer {
+    height: 50px;
+    width: 1728px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    background-color: #000000;
+    border: 0.1px solid black;
+    box-sizing: border-box;
+}
