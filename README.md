@@ -1,5 +1,8 @@
+
 #Practica-flex
+
 #Actividad Factoria F5
+
 #Introducción
 
 Vamos a construir una página a partir del siguiente prototipo de figma: https://www.figma.com/file/8c7QSTjLTRIzk3eNJebx59/In-Class-Practice%3A-Flexbox-Layout-(Community)?node-id=0%3A1&t=ru6n7vz3pwe3H2WY-1
